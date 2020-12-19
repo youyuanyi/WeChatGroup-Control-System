@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/main_bg.jpg</file>
+        <file>image/forest.jpg</file>
+        <file>image/star.jpg</file>
+        <file>image/back_bg.jpg</file>
+        <file>image/dark_bg.jpg</file>
+        <file>image/dis.jpg</file>
+        <file>image/cover.jpg</file>
+        <file>image/corn.jpg</file>
+        <file>image/ts.png</file>
+    </qresource>
+</RCC>
